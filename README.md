@@ -34,4 +34,4 @@ daily-english/
 
 > 请把今天的练习整理到 lessons 中，保留我的原回答、完整展开版和表达讲解，并更新 progress.md，写清楚下次从哪里继续。
 
-当前入口：[学习进度](progress.md) · [首次早晨练习](lessons/S1-Starting_the_day/1-First_thing_in_the_morning-2026-10-16.md) · [刷牙与牙线](lessons/S1-Starting_the_day/2-Brushing_your_teeth-Flossing-2026-10-19.md)
+当前入口：[学习进度](progress.md) · [S1-3 淋浴练习](lessons/S1-Starting_the_day/3-Taking_a_shower-2026-10-19.md)
