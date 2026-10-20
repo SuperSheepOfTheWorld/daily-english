@@ -20,7 +20,7 @@ daily-english/
 | [lessons/](lessons/) | 问题、用户原回答、完整展开版、表达讲解 | 每次练习后追加 |
 | README.md | 目录与使用说明 | 文件组织方式改变时 |
 
-学习记录采用 `lessons/S1-Starting_the_day/节号-主题-YYYY-MM-DD.md` 等章节结构。相同日期、相同主题追加到同一个文件；新日期或新主题创建新文件。保留原回答，不用修正版覆盖。从 S1-2 开始，每节笔记完整收录教材该节全部 Key Vocabulary。
+学习记录采用 `lessons/S1-Starting_the_day/节号-主题-YYYY-MM-DD.md` 等章节结构。相同日期、相同主题追加到同一个文件；新日期或新主题创建新文件。保留原回答，不用修正版覆盖。从 S1-2 开始，教材小节的笔记完整收录该节全部 Key Vocabulary；教材外补充篇单独标明来源与词汇。
 
 本地教材：根目录 `English for daily activities.pdf`。笔记同时标注印刷页码与 PDF 页序。
 
@@ -34,4 +34,4 @@ daily-english/
 
 > 请把今天的练习整理到 lessons 中，保留我的原回答、完整展开版和表达讲解，并更新 progress.md，写清楚下次从哪里继续。
 
-当前入口：[学习进度](progress.md) · [S1-3 淋浴练习](lessons/S1-Starting_the_day/3-Taking_a_shower-2026-10-19.md)
+当前入口：[学习进度](progress.md) · [S1-4.1 冬季穿衣补充篇](lessons/S1-Starting_the_day/4_1-Getting_dressed_in_the_winter-2026-10-20.md)
